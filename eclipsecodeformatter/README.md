@@ -28,7 +28,7 @@ The details about this maven plugin and its usage can be found [here](https://gi
 # How to run this application
 
 1. Checkout this project.
-2. Please note the contents of the class EclipseCodeFormatterApplication.java before formatting.
+2. Please note the contents of the class EclipseCodeFormatterApplication.java before its formatting.
 
    <img width="1680" alt="Screen Shot 2021-09-22 at 12 34 05 PM" src="https://user-images.githubusercontent.com/91077741/134318036-1e1346fa-9efe-43ea-9ddd-40e7e0b28b79.png">
 
@@ -41,3 +41,4 @@ The details about this maven plugin and its usage can be found [here](https://gi
 4. Check the contents of the file EclipseCodeFormatterApplication.java after the formatting.
  
    <img width="1680" alt="Screen Shot 2021-09-22 at 12 34 50 PM" src="https://user-images.githubusercontent.com/91077741/134318058-372231e2-4e44-4753-804a-258b3f8311a1.png">
+   
