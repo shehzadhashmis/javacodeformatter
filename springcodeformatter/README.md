@@ -26,7 +26,7 @@ The details about this maven plugin and its usage can be found [here](https://gi
 # How to run this application
 
 1. Checkout this project.
-2. Please note the contents of the class SpringCodeFormatterApplication.java before formatting.
+2. Please note the contents of the class SpringCodeFormatterApplication.java before its formatting.
 
    <img width="1680" alt="Screen Shot 2021-09-22 at 1 50 18 PM" src="https://user-images.githubusercontent.com/91077741/134320962-95330927-030b-4436-9337-722473d47254.png">
 
