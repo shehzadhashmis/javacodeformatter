@@ -5,7 +5,7 @@ This project is to demonstrate how we can apply different maven plugins to forma
 
 ## 1. [Eclipse Code Formatter](https://github.com/revelc/formatter-maven-plugin)
 ## 2. [Google Code Formatter](https://github.com/talios/googleformatter-maven-plugin)
-## 3. [Spring Code Formatter](https://github.com/talios/googleformatter-maven-plugin)
+## 3. [Spring Code Formatter](https://github.com/spring-io/spring-javaformat)
 
 # Technology Stack
 This project has been built and tested on Intellij IDEA with the following technologies.
