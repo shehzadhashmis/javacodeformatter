@@ -28,7 +28,7 @@ The details about this maven plugin and its usage can be found [here](https://gi
 1. Checkout this project.
 2. Please note the contents of the class SpringCodeFormatterApplication.java before formatting.
 
-   <img width="1680" alt="Screen Shot 2021-09-22 at 1 31 08 PM" src="https://user-images.githubusercontent.com/91077741/134320975-1a9b30fb-c67f-41c4-b78a-060464ca83c9.png">
+   <img width="1680" alt="Screen Shot 2021-09-22 at 1 50 18 PM" src="https://user-images.githubusercontent.com/91077741/134320962-95330927-030b-4436-9337-722473d47254.png">
 
 
 3. Run command
@@ -38,4 +38,4 @@ The details about this maven plugin and its usage can be found [here](https://gi
 
 4. Check the contents of the file SpringCodeFormatterApplication.java after the formatting.
    
-   <img width="1680" alt="Screen Shot 2021-09-22 at 1 50 18 PM" src="https://user-images.githubusercontent.com/91077741/134320962-95330927-030b-4436-9337-722473d47254.png">
+   <img width="1680" alt="Screen Shot 2021-09-22 at 1 31 08 PM" src="https://user-images.githubusercontent.com/91077741/134320975-1a9b30fb-c67f-41c4-b78a-060464ca83c9.png">
