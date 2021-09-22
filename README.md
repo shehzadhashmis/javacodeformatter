@@ -1,4 +1,5 @@
 # Formatting Java Classes With Maven Plugins
+![clean](https://user-images.githubusercontent.com/91077741/134330238-ff4da5be-204e-4eb7-a035-248dba6f6646.jpeg)
 
 This project is to demonstrate how we can apply different maven plugins to format Java classes. There are many other formatters available as well but this project covers the following plugins specifially.
 
