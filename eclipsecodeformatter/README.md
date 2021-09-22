@@ -39,5 +39,5 @@ The details about this maven plugin and its usage can be found [here](https://gi
 
 
 4. Check the contents of the file EclipseCodeFormatterApplication.java after the formatting.
-5. 
+ 
    <img width="1680" alt="Screen Shot 2021-09-22 at 12 34 50 PM" src="https://user-images.githubusercontent.com/91077741/134318058-372231e2-4e44-4753-804a-258b3f8311a1.png">
