@@ -8,7 +8,7 @@ This project is to demonstrate how we can apply different maven plugins to forma
 ## 3. [Spring Code Formatter](https://github.com/talios/googleformatter-maven-plugin)
 
 # Technology Stack
-This project has been built and tested with the following technologies.
+This project has been built and tested on Intellij IDEA with the following technologies.
 1. JDK 11
 2. Spring Boot 2.5.4
 3. Apache Maven 3.8.2

@@ -21,7 +21,7 @@ This project is to demonstrate the formatting of the Java classes using Spring m
     </plugins>
 </build>
 ```
-The details about this maven plugin and its usage can be found [here](https://github.com/talios/googleformatter-maven-plugin).
+The details about this maven plugin and its usage can be found [here](https://github.com/spring-io/spring-javaformat).
 
 # How to run this application
 
