@@ -7,4 +7,11 @@ This project is to demonstrate how we can apply different maven plugins to forma
 ## 2. [Google Code Formatter](https://github.com/talios/googleformatter-maven-plugin)
 ## 3. [Spring Code Formatter](https://github.com/talios/googleformatter-maven-plugin)
 
+# Technology Stack
+This project has been built and tested with the following technologies.
+1. JDK 11
+2. Spring Boot 2.5.4
+3. Apache Maven 3.8.2
+4. Lombok 1.18.20
+
 To try it, please expore the individual modules that are based on Spring Boot application and follow the respective README.md file.
